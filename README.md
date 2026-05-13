@@ -4,8 +4,8 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Pedro Henrique da Costa Cunha
+- Matricula: 910998
 
 ## Print do console do navegador
 
